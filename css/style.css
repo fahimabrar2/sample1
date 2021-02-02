@@ -1,0 +1,55 @@
+address{
+	display: block;
+	font-style: italic;
+
+}
+
+area{
+	display: none;
+}
+map{
+	display: inline;
+}
+
+b {
+  font-weight: bold;
+}
+.button{border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.button1 {background-color: #4CAF50;} /* Green */
+.button2 {background-color: #008CBA;} /* Blue */
+
+table, th, td {
+  border: 1px solid black;
+
+}
+
+del {background-color: tomato;}
+ins {background-color: yellow;}
+dd {
+  display: block;
+  margin-left: 40px;
+}
+
+summary {
+  padding: 4px;
+  width: 200px;
+  background-color: #eeeeee;
+  border: none;
+  box-shadow: 1px 1px 2px #bbbbbb;
+  cursor: pointer;
+}
+body {
+  background-image: url(../photos/background2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
